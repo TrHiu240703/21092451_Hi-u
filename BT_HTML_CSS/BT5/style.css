@@ -1,0 +1,27 @@
+.containner{
+    background-image:url(/istockphoto-466732980-612x612.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  padding: 30px;
+  height: 150px;
+}
+.title1{
+    color:white;
+    font-family: monospace;
+    font-size: 27px;
+}
+.title2{
+    color: white;
+
+}
+.btn{
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+}

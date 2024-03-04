@@ -1,0 +1,29 @@
+.containner{
+    text-align: center;
+    background-color: #DDDDDD;
+    padding: 20px;
+    width: 50%;
+}
+
+h4{
+    font-size: 40px;
+    font-family: math;
+    margin-bottom: 0px;
+}
+.email{
+    width: 310px;
+    height: 30px;
+    
+}
+.btn{
+    margin-top: 30px;
+    background-color: #00BFFF;
+    color: white;
+    border: 0px;
+    padding: 10px;
+    width: 140px;
+    height: 45px;
+    border-radius: 5px;
+    margin-top: 15px;
+    cursor: pointer;
+}

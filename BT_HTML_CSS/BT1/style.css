@@ -1,0 +1,28 @@
+
+.containner{
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+
+}
+h1{
+    margin-top: 0px;
+    
+}
+h4{
+    font-size: 15px;
+    opacity: 0.8;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 30px;
+}

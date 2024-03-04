@@ -1,0 +1,13 @@
+.tag{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    width: 420px;
+    margin-left: 30px;
+    gap: 10px   ;
+}
+.title{
+    color: white;
+    background: greenyellow;
+    text-align: center;
+    border-radius: 5px;
+}

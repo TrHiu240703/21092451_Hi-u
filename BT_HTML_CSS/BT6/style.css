@@ -1,0 +1,22 @@
+.containner{
+    background-image:url(/istockphoto-1287456867-612x612.jpg) ;
+background-repeat: no-repeat;
+    width: 90%;
+    background-attachment: fixed;
+    background-size: cover;
+    /* height: 100%; */
+    text-align: center;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 50px;
+}
+.word1{
+    color: white;
+    margin-top: 30px;
+    font-size: 30px;
+}
+.word{
+    color: yellow;
+    margin-top: 20px;
+    font-size: 15px;
+}
